@@ -2,15 +2,15 @@
 # [8:00 AM - 2:00 PM]
 
 ### Emails/Meetings to Complete
-1. Schedule meeting with CIS consultant
-2. Send courses for approval to DGS
+1. ~~Schedule meeting with CIS consultant~~
+2. ~~Send courses for approval to DGS~~
 
 ---
 
 ##### Healthcare
-1. Schedule meeting with PCP for follow up
-2. Email Amanda about appointment
-3. Schedule appointment with Meghan
+1. ~~Schedule meeting with PCP for follow up~~
+2. ~~Email Amanda about appointment~~
+3. ~~Schedule appointment with Meghan~~
 
 
 ##### Personal
@@ -23,7 +23,7 @@
    
 
 ##### Academics 
-1. Create school supplies list and tentative textbooks
+1. Create school supplies list ~~and tentative textbooks~~
 2. Read through the regulations manual
 3. Organize documentation for post-meeting plan
 4. Cry
