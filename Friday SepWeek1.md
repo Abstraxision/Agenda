@@ -5,14 +5,14 @@
 
 ## [8:00 AM - 9:30 AM]
 1. ~~Create Agenda~~
-2. Update gcal/outlook schedule
-   - Teaching
-       - Personal Office Hours
-       - Due dates and grading deadlines
-   - Courses
-       - Instructor/TA office hours
-       - Assignment deadlines
-       - Exam dates
+2. ~~Update gcal/outlook schedule~~ *exported ics file*
+   ~~- Teaching~~
+       ~~- Personal Office Hours~~
+       ~~- Due dates and grading deadlines~~
+   ~~- Courses~~
+       ~~- Instructor/TA office hours~~
+       ~~- Assignment deadlines~~
+       ~~- Exam dates~~
    - Monthly tenant meetings
    - Friend weekly trivia nights
    - Movie with K. tonight
