@@ -1,7 +1,7 @@
 # Monday Agenda
 
 ## Healthcare 
-1. ~~Y appointment referral scheduled (~1-2 weeks)~~
+1. Y appointment referral scheduled (~1-2 weeks)
 2. P appointment notes
 3. PCP appointment needs to be scheduled
 4. CM appointment needs to be scheduled after November 1st.
