@@ -9,10 +9,10 @@
 ## Academic
 1. ~~Complete personal statement~~ 
 2. ~~organize/download/backup supplementary materials for senate application~~
-3. Email all professors to confirm once application is submitted.
-4. Email ITS to recover university account
-5. Email MSW program to schedule a call (video preferred)
-6. Email Dr. Young about how to apply for degree confermebt with account cybersecurity adjustments
+3. _Email all professors to confirm once application is submitted._
+4. **Email ITS to recover university account**
+5. _Email MSW program to schedule a call (video preferred)_
+6. ~~Email Dr. Young about how to apply for degree confermebt with account cybersecurity adjustments~~
 
 ## Career
 1. ~~email linked in to recover old profile with expired university email from undergrad~~
