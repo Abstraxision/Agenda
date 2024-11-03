@@ -9,8 +9,8 @@
 ## Academic
 1. ~~Complete personal statement~~ 
 2. ~~organize/download/backup supplementary materials for senate application~~
-3. _Email all professors to confirm once application is submitted._
-4. **Email ITS to recover university account**
+3. ~~Email all professors to confirm once application is submitted.~~
+4. ~~Email ITS to recover university account~~
 5. _Email MSW program to schedule a call (video preferred)_
 6. ~~Email Dr. Young about how to apply for degree confermebt with account cybersecurity adjustments~~
 
@@ -24,5 +24,5 @@
 ## Personal 
 1. ~~Read through apartmnet move out guidelines and meet with leasing agent for documents~~
 2. ~~Write down move out plan and share timelines with roommate~~
-3. Plan a moving service for moving independently
+3. ~~Plan a moving service for moving independently~~
 4. ~~create an integrated calendar for all meetings~~
